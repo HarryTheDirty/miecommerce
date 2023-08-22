@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//harrythedirty.github.io/miecommerce/static/css/main.42633881.css",
+    "main.js": "//harrythedirty.github.io/miecommerce/static/js/main.510ee6dc.js",
+    "static/js/787.011bd9d9.chunk.js": "//harrythedirty.github.io/miecommerce/static/js/787.011bd9d9.chunk.js",
+    "static/media/funkoHP.jpg": "//harrythedirty.github.io/miecommerce/static/media/funkoHP.c91925ef91b6b761338f.jpg",
+    "index.html": "//harrythedirty.github.io/miecommerce/index.html",
+    "main.42633881.css.map": "//harrythedirty.github.io/miecommerce/static/css/main.42633881.css.map",
+    "main.510ee6dc.js.map": "//harrythedirty.github.io/miecommerce/static/js/main.510ee6dc.js.map",
+    "787.011bd9d9.chunk.js.map": "//harrythedirty.github.io/miecommerce/static/js/787.011bd9d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42633881.css",
+    "static/js/main.510ee6dc.js"
+  ]
+}
